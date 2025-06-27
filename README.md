@@ -1,16 +1,16 @@
-## Hi there 👋
+# This is Memo 🐸
 
-<!--
-**Memolxz/Memolxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Aspiring Full Stack Developer`**
 
-Here are some ideas to get you started:
+Soy Kiara, estudiante de la carrera Ciencia de la Computacion.\
+Actualmente programo mayormente en TypeScript, pero estoy dispuesta a aprender nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyecto actual
+Actualmente me encuentro trabajando en [Glow-Studio](https://github.com/Memolxz/glow-studio). Un sitio web que permite a los usuarios obtener recomendaciones de productos para el cuidado de piel basado en las condiciones de su piel.
+
+## Lenguajes y herramientas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,css,html,bootstrap,flask,js,ts,nodejs,express,mysql,sqlite,postgres,prisma,git,postman,bash,linux,ps&perline=10" />
+  </a>
+</p>
