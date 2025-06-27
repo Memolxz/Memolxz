@@ -3,10 +3,10 @@
 **`Aspiring Full Stack Developer`**
 
 Soy Kiara, estudiante de la carrera Ciencia de la Computacion.\
-Actualmente programo mayormente en TypeScript, pero estoy dispuesta a aprender nuevas tecnologías.
+Actualmente programo principalmente en TypeScript, pero estoy abierta a aprender nuevas tecnologías.
 
 ## Proyecto actual
-Actualmente me encuentro trabajando en [Glow-Studio](https://github.com/Memolxz/glow-studio). Un sitio web que permite a los usuarios obtener recomendaciones de productos para el cuidado de piel basado en las condiciones de su piel.
+Actualmente me encuentro trabajando en [Glow-Studio](https://github.com/Memolxz/glow-studio), un sitio web que permite a los usuarios obtener recomendaciones de productos para el cuidado de la piel, basadas en las condiciones específicas de su piel.
 
 ## Lenguajes y herramientas
 <p align="left">
