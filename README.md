@@ -2,7 +2,7 @@
 
 **`Aspiring Full Stack Developer`**
 
-Soy Kiara, estudiante de la carrera Ciencia de la Computacion.\
+Soy Kiara, estudiante de la carrera Ciencias de la Computacion.\
 Actualmente programo principalmente en TypeScript, pero estoy abierta a aprender nuevas tecnologías.
 
 ## Proyecto actual
