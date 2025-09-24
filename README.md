@@ -11,6 +11,6 @@ Actualmente me encuentro trabajando en [Glow-Studio](https://github.com/Memolxz/
 ## Lenguajes y herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,css,html,bootstrap,flask,js,ts,nodejs,express,mysql,sqlite,postgres,prisma,git,postman,bash,linux,ps&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,css,html,tailwind,flask,js,ts,nodejs,express,mysql,sqlite,postgres,prisma,git,postman,bash,linux,ps&perline=10" />
   </a>
 </p>
