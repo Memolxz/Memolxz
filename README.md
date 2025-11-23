@@ -6,7 +6,7 @@ Soy Kiara, estudiante de la carrera Ciencias de la Computacion.\
 Actualmente programo principalmente en TypeScript, pero estoy abierta a aprender nuevas tecnologías.
 
 ## Proyecto actual
-Actualmente me encuentro trabajando en [Glow-Studio](https://github.com/Memolxz/glow-studio), un sitio web que permite a los usuarios obtener recomendaciones de productos para el cuidado de la piel, basadas en las condiciones específicas de su piel.
+Me encuentro trabajando en [Glow-Studio](https://github.com/Memolxz/glow-studio), un sitio web que permite a los usuarios obtener recomendaciones de productos para el cuidado de la piel, basadas en las condiciones específicas de su piel.
 
 ## Lenguajes y herramientas
 <p align="left">
